@@ -18,6 +18,10 @@ and the e-commerce industry.
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="wordpress logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender logo" width="50" height="50"/> 
 
+---
+
+[![Maor's GitHub stats](https://github-readme-stats.vercel.app/api?username=maoraviad1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
